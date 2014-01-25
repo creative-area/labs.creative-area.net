@@ -1,3 +1,6 @@
 [submodule "jquery.formautofill"]
 	path = jquery.formautofill
 	url = https://github.com/creative-area/jQuery-form-autofill.git
+[submodule "jquery.datagrid"]
+	path = jquery.datagrid
+	url = https://github.com/creative-area/jquery.datagrid.git
